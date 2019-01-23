@@ -47,7 +47,7 @@ Embedding the counter on your website is a cool way to display the real time cou
 
 # Support
 
-If you would like to support this project, please consider donating via [PayPal](https://paypal.me/AkshatMittal/25USD) or [Instamojo (India)](https://imjo.in/26KdPa) to keep this tool free!
+If you would like to support this project, please consider donating via [PayPal](https://paypal.me/ZaidAliT/25USD) or [Instamojo (India)](https://imjo.in/26KdPa) to keep this tool free!
 
 # License
 
